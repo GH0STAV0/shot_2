@@ -1,4 +1,5 @@
 FROM php:7.4-apache
+# S IHATI v03
 RUN apt update
 RUN apt install vsftpd curl -y
 
