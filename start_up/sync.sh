@@ -18,7 +18,7 @@ QUAL="medium"                                  # Preset de qualité FFMPEG
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"  # URL de base RTMP youtube
 
 SOURCE="xx.mp4"              # Source UDP (voir les annonces SAP)
-KEY="7h61-5gwb-zmy2-wbgk-fp4h"                                     # Clé à récupérer sur l'event youtube
+KEY="ms9z-mx5s-fvjg-9tmf-93ap"                                     # Clé à récupérer sur l'event youtube
 
 ffmpeg \
     -i "$SOURCE" -deinterlace \
